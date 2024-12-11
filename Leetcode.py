@@ -72,7 +72,7 @@ def fetch_all_user_data(usernames, output_file="leetcode_profiles.csv"):
 
 if __name__ == "__main__":
     # Input: List of usernames
-    usernames = ["user1", "user2", "user3"]  # Replace with actual LeetCode usernames
+    usernames = ["ksadgurusai","venkatesh_799"]  # Replace with actual LeetCode usernames
 
     # Output file name
     output_file = "leetcode_profiles.csv"
